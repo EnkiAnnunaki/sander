@@ -15,7 +15,7 @@
   "devDependencies": {
     "buffer-crc32": "^0.2.5",
     "mocha": "^3.2.0",
-    "rollup": "^0.36.4",
+    "rollup": "^4.22.5",
     "rollup-plugin-buble": "^0.14.0"
   },
   "scripts": {
